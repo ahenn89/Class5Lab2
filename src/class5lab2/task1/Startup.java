@@ -7,6 +7,6 @@ public class Startup {
          Adult adult = new Adult();
          
          adult.setName("Sally");
-         System.out.println(adult.getName());
+         System.out.println("This adult is named: " + adult.getName());
        } 
 }

@@ -15,25 +15,5 @@ public class Adult extends Person{
     public String getName() {
         return name;
     }
-
-    @Override
-    public void setWeight(int newWeight) {
-        
-    }
-
-    @Override
-    public int getWeight() {
-        return 0;
-    }
-
-    @Override
-    public void setSpeak(String newSpeak) {
-        speak = newSpeak;
-    }
-
-    @Override
-    public String getSpeak() {
-        return speak;
-    }
     
 }
