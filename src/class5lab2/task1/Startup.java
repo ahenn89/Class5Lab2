@@ -1,9 +1,12 @@
 package class5lab2.task1;
 
-//Superclass - Concrete
+//Superclass - Abstract
 
 public class Startup {
     public static void main(String[] args) {
-           // TODO code application logic here
+         Adult adult = new Adult();
+         
+         adult.setName("Sally");
+         System.out.println(adult.getName());
        } 
 }

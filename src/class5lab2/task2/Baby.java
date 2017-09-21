@@ -1,6 +1,6 @@
 package class5lab2.task2;
 
-//Abstract
+//Concrete
 
 public class Baby extends Person {
     public void babyMovement(){

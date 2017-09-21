@@ -1,6 +1,6 @@
 package class5lab2.task2;
 
-//Superclass - Abstract
+//Superclass - Concrete
 
 public class Startup {
     

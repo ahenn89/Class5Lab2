@@ -1,6 +1,6 @@
 package class5lab2.task2;
 
-//Abstract
+//Concrete
 
 public class Adult extends Person {
     public void movement(){
