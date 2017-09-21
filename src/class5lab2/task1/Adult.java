@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package class5lab2;
+package class5lab2.task1;
 
 /**
  *
